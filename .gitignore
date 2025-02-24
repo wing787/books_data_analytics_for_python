@@ -1,5 +1,7 @@
 # for personal use
 data/
+*.png
+*.svg
 
 # General for MacOS
 .DS_Store
