@@ -23,6 +23,7 @@ executing
 fastjsonschema
 fonttools
 fqdn
+gensim
 h11
 html5lib
 httpcore
@@ -94,8 +95,8 @@ rpds-py
 scikit-learn
 scipy
 Send2Trash
-setuptools
 six
+smart-open
 sniffio
 soupsieve
 stack-data
@@ -107,9 +108,11 @@ traitlets
 types-python-dateutil
 typing_extensions
 tzdata
+unidic-lite
 uri-template
 urllib3
 wcwidth
 webcolors
 webencodings
 websocket-client
+wrapt
